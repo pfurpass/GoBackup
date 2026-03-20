@@ -95,7 +95,7 @@ sudo ./backup-tool
 
 ## Backup File Format
 
-```
+``
 ┌─────────────────────────────────────┐
 │  BACKUP HEADER (512 bytes)          │
 │  Magic:      "GOBACKUP"             │
